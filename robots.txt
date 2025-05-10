@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://evolved-apes.vercel.app/sitemap.xml
